@@ -7,7 +7,7 @@ This repository contains the code and Jupyter notebook with all generated plots,
 
 This internship project was conducted at [The Hyve](https://www.thehyve.nl/), in the RADAR-base team and involved the implementataion of different Polar devices to the [RADAR-base platform](https://github.com/RADAR-base).
 
-The objective of this study was to assess the added value to the RADAR-base platform of three newly integrated Polar devices: The Polar Verity Sense, Polar Vantage V3, and Polar H10.
+The objective of this study was to assess the added value of three newly integrated Polar devices — the Polar Verity Sense, the Polar Vantage V3, and the Polar H10 — to the RADAR-base platform.
 These wearables were evaluated in terms of their ease of use, robustness, and the quality of their data collected. To this end, heart rate measurements of 13 participants were taken during different activity phases, using the newly integrated devices and a Fitbit Charge 2 for comparison. Measurements were compared to the Polar H10, as this chest strap uses ECG, which is reported to be a standard in measuring heart rate.
 
 ### Getting started
