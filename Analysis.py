@@ -47,7 +47,8 @@ subjects = {
     '309eb2f0-bb5e-4072-881e-8953444cbd1b': 'subject-10',
     'a59e17c0-2fd3-4e19-9135-9e0afb740047': 'subject-11',
     '7fd42a22-81b6-4f33-95e6-81eacd8ac400': 'subject-12',
-    'fd4731fd-b390-467c-977b-48ca733f7d0a': 'subject-13'
+    'fd4731fd-b390-467c-977b-48ca733f7d0a': 'subject-13',
+    '54414924-a9f9-462e-9aec-b633cdf9ec68': 'fitbit'
 }
 
 activities = ['Full', 'Resting', 'Exercise', 'Recovery']
